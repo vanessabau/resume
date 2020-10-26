@@ -7,12 +7,12 @@
 ___
 
 
-### About
+## About
 Passionate, determined, and hard-working Web Developer with a professional career built from the ground up and across multiple disciplines. Successes in launching new businesses, expanding underrepresented access to performing arts, and creating innovative marketing stemmed from a creative, can-do attitude. With the belief that each day is an opportunity to be and do better, challenges are met with grit and optimism. Relationship-building, learning from industry professionals, time management, and organization are tools most utilized to work productively and efficiently alone or with others while being self-driven to reach goals.
 
 ___
 
-### Technical Skills
+## Technical Skills
 **Languages:** HTML/CSS, JavaScript, React.js, CSS3, HTML5, JSON,  SQL
 
 **Database:** MySQL, MongoDB
@@ -21,16 +21,34 @@ ___
 
 ___
 
-### Projects
+## Projects
 **IDENTITY COFFEES** - https://identitycoffees.herokuapp.com/ | https://github.com/vanessabau/identitycoffees   **2020**
 
 *Full-stack business website for local independent coffee company*
 - First built using a squarespace template, after learning to code, re-created from scratch.
 - Tools used: HTML/CSS, Bootstrap, JavaScript, Node.JS, Express
 
-
 **ORGANIZE** - https://organize-demo.herokuapp.com/ | https://github.com/vanessabau/Organize2.0   **2020**
 
 *MERN stack web application that allows community organizers to connect, share, and mobilize for social change without the negative static and trolling of social media.*
 - Visually designed then built front-end pages with API
 - Tools used: React.js, Express, Node.js, Javascript, Bootstrap, MongoDB, Atlas, fullcalendar, passport, bcryptjs, JSON web tokens, Lodash, shields.io
+
+**BEYOND VACATION** - https://beyondvacation.herokuapp.com/ | https://github.com/vanessabau/beyondVacation    **2020**
+
+*Full stack web app -  vacation rental platform for the socially-distancing era.*
+- Designed and built the front end platform and contributed to back-end API’s 
+- Tools used: Node.js, MySQL, Express, Handlebars, passport, HTML/CSS, Bootstrap, JQuery, Javascript
+
+___
+
+## Experience
+#### Media and Public Relations, Web Development						
+#### Identity Coffees, Sacramento, CA    2016-2020
+Created and managed strategic marketing for a growing small business via a multi-faceted approach of traditional and new media. Oversaw and created all web content, email, and social media, and coordinated marketing events and profitable collaborations. Utilized time management and effective communication to reach and exceed goals individually and in group projects.  Reported to owners and followed all guidelines, budgets, and directives. 
+- Expanded role by learning web development and designed, built and maintained company website both from squarespace templates, then from scratch.
+- Increased monthly gross revenue by 10% via social media collaborations.
+- Boosted daily gross sales by 22% per event through monthly art and music events.
+- Grew company Instagram account from 600 to 14,000 followers in 18 months, 90% located in target geographic area.
+- Doubled retail coffee sales via email marketing campaigns.
+
