@@ -65,20 +65,24 @@ University of California Davis - Davis, CA, 2020
 
 #### B.A. Theatre
 California State University, Sacramento - Sacramento, CA, 2011
+
 **Awards:** Merit Scholar 2010, Mayor’s Choice Award Performing Arts 2011
 
 ## Additional Skills
 **Professional Skills:** Full Stack Web Development, Graphic Design, Photography, Social Media Management, Customer Service, Event Planning, Training and Development, Teaching and Curriculum Development.
+
 **Languages:** English, Spanish
 
 ## References
 **Ryan Rake
 Owner || Identity Coffees**
+
 916-952-3274 || ryan@identitycoffees.com 
 1430 28th Street, Sacramento, CA
 
 **Ron Cunningham and Carinne Binda 
 Artistic Directors Emeritus || Sacramento Ballet**
+
 916-397-3519 || roncunningham@aol.com
 Sacramento, CA
 
