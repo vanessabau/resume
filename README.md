@@ -24,6 +24,7 @@ http://identitycoffees.com/ | https://identitycoffees.herokuapp.com/ | https://g
 - Tools used: HTML/CSS, Bootstrap, JavaScript, Node.JS, Express
 
 **ORGANIZE - 2020** 
+
 https://organize-demo.herokuapp.com/ | https://github.com/vanessabau/Organize2.0   
 
 *MERN stack web application that allows community organizers to connect, share, and mobilize for social change without the negative static and trolling of social media.*
@@ -40,8 +41,7 @@ https://beyondvacation.herokuapp.com/ | https://github.com/vanessabau/beyondVaca
 
 
 ## Experience
-#### Media and Public Relations, Web Development						
-#### Identity Coffees, Sacramento, CA    2016-2020
+#### Media and Public Relations, Web Development - Identity Coffees, Sacramento, CA    2016-2020
 Created and managed strategic marketing for a growing small business via a multi-faceted approach of traditional and new media. Oversaw and created all web content, email, and social media, and coordinated marketing events and profitable collaborations. Utilized time management and effective communication to reach and exceed goals individually and in group projects.  Reported to owners and followed all guidelines, budgets, and directives. 
 - Expanded role by learning web development in 2020 and designed, built and maintained company website both from squarespace templates, then from scratch.
 - Increased monthly gross revenue by 10% via social media collaborations.
@@ -49,17 +49,14 @@ Created and managed strategic marketing for a growing small business via a multi
 - Grew company Instagram account from 600 to 14,000 followers in 18 months, 90% located in target geographic area.
 - Doubled retail coffee sales via email marketing campaigns.
 
-#### Director of Food	
-#### Identity Coffees, Sacramento, CA    2017-2020
+#### Director of Food	- Identity Coffees, Sacramento, CA    2017-2020
 Self-taught Chef and Kitchen Manager, Identity Coffees responsibilities expanded to include creating new food programs at two new cafes. Oversight included kitchen structure, systems, equipment maintenance, cook training, and growing brand-new small businesses. Effectively managed a team of 8 cooks and maximized team efficiency through systems-based labor and training models. One cafe was featured in Sacramento Bee’s 10 Best Brunch Spots for 2019. 
 
-#### Director Education and Outreach, Faculty
-#### Sacramento Ballet, Sacramento, CA 2007-2017
+#### Director Education and Outreach, Faculty - Sacramento Ballet, Sacramento, CA 2007-2017
 Developed, implemented and expanded community outreach and education programs for the Sacramento Ballet. Trained in arts-aligned curriculum development through the Kennedy Center, worked with Arts Professionals and Administrators to create art-education curriculum and events. Expanded outreach programming from serving 300 to over 4000 individuals per year.  Sought and secured funding and managed reporting. Developed digital and video outreach marketing. 
 Additionally, served as part of the School of the Sacramento Ballet Faculty. Mentored and professionally trained ballet students and directed a yearly summer intensive training program.
 
-#### Graphic Design and Recording
-#### Shapiro Consulting, Sacramento, CA 2005-2007
+#### Graphic Design and Recording - Shapiro Consulting, Sacramento, CA 2005-2007
 Graphic Designer and Graphic Recorder for a local Community Development Consulting Agency. Assisted in Community Visioning events, creating community action plans and graphic design materials.
 
 ## Education
