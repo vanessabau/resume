@@ -1,2 +1,2 @@
-# resume
-Resume in markdown
+# Vanessa Rodrigues-Bautista
+Full Stack Web Developer
