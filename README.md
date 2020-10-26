@@ -10,7 +10,6 @@ ___
 ## About
 Passionate, determined, and hard-working Web Developer with a professional career built from the ground up and across multiple disciplines. Successes in launching new businesses, expanding underrepresented access to performing arts, and creating innovative marketing stemmed from a creative, can-do attitude. With the belief that each day is an opportunity to be and do better, challenges are met with grit and optimism. Relationship-building, learning from industry professionals, time management, and organization are tools most utilized to work productively and efficiently alone or with others while being self-driven to reach goals.
 
-___
 
 ## Technical Skills
 **Languages:** HTML/CSS, JavaScript, React.js, CSS3, HTML5, JSON,  SQL
@@ -19,28 +18,26 @@ ___
 
 **Other:**  Heroku, Git, Node.js, Express, Jquery, Bootstrap, Handlebars, Atlas, Mongoose, Sequelize, Postman, Adobe Photoshop, Adobe Illustrator, Microsoft Office Suite
 
-___
 
 ## Projects
-**IDENTITY COFFEES** - https://identitycoffees.herokuapp.com/ | https://github.com/vanessabau/identitycoffees   **2020**
+**IDENTITY COFFEES - 2018/2020** - http://identitycoffees.com/ | https://identitycoffees.herokuapp.com/ | https://github.com/vanessabau/identitycoffees   
 
 *Full-stack business website for local independent coffee company*
 - First built using a squarespace template, after learning to code, re-created from scratch.
 - Tools used: HTML/CSS, Bootstrap, JavaScript, Node.JS, Express
 
-**ORGANIZE** - https://organize-demo.herokuapp.com/ | https://github.com/vanessabau/Organize2.0   **2020**
+**ORGANIZE - 2020** - https://organize-demo.herokuapp.com/ | https://github.com/vanessabau/Organize2.0   
 
 *MERN stack web application that allows community organizers to connect, share, and mobilize for social change without the negative static and trolling of social media.*
 - Visually designed then built front-end pages with API
 - Tools used: React.js, Express, Node.js, Javascript, Bootstrap, MongoDB, Atlas, fullcalendar, passport, bcryptjs, JSON web tokens, Lodash, shields.io
 
-**BEYOND VACATION** - https://beyondvacation.herokuapp.com/ | https://github.com/vanessabau/beyondVacation    **2020**
+**BEYOND VACATION - 2020** - https://beyondvacation.herokuapp.com/ | https://github.com/vanessabau/beyondVacation    
 
 *Full stack web app -  vacation rental platform for the socially-distancing era.*
 - Designed and built the front end platform and contributed to back-end API’s 
 - Tools used: Node.js, MySQL, Express, Handlebars, passport, HTML/CSS, Bootstrap, JQuery, Javascript
 
-___
 
 ## Experience
 #### Media and Public Relations, Web Development						
