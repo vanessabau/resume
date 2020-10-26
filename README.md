@@ -15,7 +15,7 @@ Passionate, determined, and hard-working Web Developer with a professional caree
 **Other:**  Heroku, Git, Node.js, Express, Jquery, Bootstrap, Handlebars, Atlas, Mongoose, Sequelize, Postman, Adobe Photoshop, Adobe Illustrator, Microsoft Office Suite
 
 ## Projects
-**IDENTITY COFFEES - 2018/2020** 
+### IDENTITY COFFEES - 2018/2020 
 
 http://identitycoffees.com/ | https://identitycoffees.herokuapp.com/ | https://github.com/vanessabau/identitycoffees   
 
@@ -23,7 +23,7 @@ http://identitycoffees.com/ | https://identitycoffees.herokuapp.com/ | https://g
 - First built using a squarespace template, after learning to code, re-created from scratch.
 - Tools used: HTML/CSS, Bootstrap, JavaScript, Node.JS, Express
 
-**ORGANIZE - 2020** 
+### ORGANIZE - 2020
 
 https://organize-demo.herokuapp.com/ | https://github.com/vanessabau/Organize2.0   
 
@@ -31,7 +31,7 @@ https://organize-demo.herokuapp.com/ | https://github.com/vanessabau/Organize2.0
 - Visually designed then built front-end pages with API
 - Tools used: React.js, Express, Node.js, Javascript, Bootstrap, MongoDB, Atlas, fullcalendar, passport, bcryptjs, JSON web tokens, Lodash, shields.io
 
-**BEYOND VACATION - 2020** 
+### BEYOND VACATION - 2020 
 
 https://beyondvacation.herokuapp.com/ | https://github.com/vanessabau/beyondVacation    
 
@@ -78,12 +78,14 @@ California State University, Sacramento - Sacramento, CA, 2011
 Owner || Identity Coffees**
 
 916-952-3274 || ryan@identitycoffees.com 
+
 1430 28th Street, Sacramento, CA
 
 **Ron Cunningham and Carinne Binda 
 Artistic Directors Emeritus || Sacramento Ballet**
 
 916-397-3519 || roncunningham@aol.com
+
 Sacramento, CA
 
 
