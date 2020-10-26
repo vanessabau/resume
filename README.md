@@ -43,7 +43,7 @@ https://beyondvacation.herokuapp.com/ | https://github.com/vanessabau/beyondVaca
 #### Media and Public Relations, Web Development						
 #### Identity Coffees, Sacramento, CA    2016-2020
 Created and managed strategic marketing for a growing small business via a multi-faceted approach of traditional and new media. Oversaw and created all web content, email, and social media, and coordinated marketing events and profitable collaborations. Utilized time management and effective communication to reach and exceed goals individually and in group projects.  Reported to owners and followed all guidelines, budgets, and directives. 
-- Expanded role by learning web development and designed, built and maintained company website both from squarespace templates, then from scratch.
+- Expanded role by learning web development in 2020 and designed, built and maintained company website both from squarespace templates, then from scratch.
 - Increased monthly gross revenue by 10% via social media collaborations.
 - Boosted daily gross sales by 22% per event through monthly art and music events.
 - Grew company Instagram account from 600 to 14,000 followers in 18 months, 90% located in target geographic area.
@@ -61,4 +61,30 @@ Additionally, served as part of the School of the Sacramento Ballet Faculty. Men
 #### Graphic Design and Recording
 #### Shapiro Consulting, Sacramento, CA 2005-2007
 Graphic Designer and Graphic Recorder for a local Community Development Consulting Agency. Assisted in Community Visioning events, creating community action plans and graphic design materials.
+
+## Education
+#### Bootcamp Certificate in Full Stack Web Development	
+University of California Davis - Davis, CA, 2020
+
+#### B.A. Theatre
+California State University, Sacramento - Sacramento, CA, 2011
+**Awards:** Merit Scholar 2010, Mayor’s Choice Award Performing Arts 2011
+
+## Additional Skills
+**Professional Skills:** Full Stack Web Development, Graphic Design, Photography, Social Media Management, Customer Service, Event Planning, Training and Development, Teaching and Curriculum Development.
+**Languages:** English, Spanish
+
+## References
+**Ryan Rake
+Owner || Identity Coffees**
+916-952-3274 || ryan@identitycoffees.com 
+1430 28th Street, Sacramento, CA
+
+**Ron Cunningham and Carinne Binda 
+Artistic Directors Emeritus || Sacramento Ballet**
+916-397-3519 || roncunningham@aol.com
+Sacramento, CA
+
+
+
 
