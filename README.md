@@ -1,4 +1,4 @@
-# Vanessa Rodrigues-Bautista Full Stack Web Developer
+# Vanessa Rodrigues-Bautista || Full Stack Web Developer
 ### Contact
 #####  Phone: 916-225-4599 | Email: vanessawebdev@gmail.com | Sacramento, CA 95816
 
@@ -18,3 +18,19 @@ ___
 **Database:** MySQL, MongoDB
 
 **Other:**  Heroku, Git, Node.js, Express, Jquery, Bootstrap, Handlebars, Atlas, Mongoose, Sequelize, Postman, Adobe Photoshop, Adobe Illustrator, Microsoft Office Suite
+
+___
+
+### Projects
+**IDENTITY COFFEES** - https://identitycoffees.herokuapp.com/ | https://github.com/vanessabau/identitycoffees   **2020**
+
+*Full-stack business website for local independent coffee company*
+- First built using a squarespace template, after learning to code, re-created from scratch.
+- Tools used: HTML/CSS, Bootstrap, JavaScript, Node.JS, Express
+
+
+**ORGANIZE** - https://organize-demo.herokuapp.com/ | https://github.com/vanessabau/Organize2.0   **2020**
+
+*MERN stack web application that allows community organizers to connect, share, and mobilize for social change without the negative static and trolling of social media.*
+- Visually designed then built front-end pages with API
+- Tools used: React.js, Express, Node.js, Javascript, Bootstrap, MongoDB, Atlas, fullcalendar, passport, bcryptjs, JSON web tokens, Lodash, shields.io
